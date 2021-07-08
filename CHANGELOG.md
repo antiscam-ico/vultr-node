@@ -1,5 +1,24 @@
 # Change Log
 
+## [v2.1.1](https://github.com/vultr/vultr-node/compare/v2.1.0..v2.1.1) (2020-07-03)
+### Dependencies
+* To see all deps that were updated please check [milestone v2.1.1](https://github.com/vultr/vultr-node/milestone/42)
+
+## [v2.1.0](https://github.com/vultr/vultr-node/compare/v2.0.8..v2.1.0) (2020-06-17)
+### Features
+* Adds new load balancer endpoints and ability to add firewall parameters to existing load balance endpoints [#489](https://github.com/vultr/vultr-node/489)
+
+### Dependencies
+* To see all deps that were updated please check [milestone v2.1.0](https://github.com/vultr/vultr-node/milestone/41)
+
+## [v2.0.8](https://github.com/vultr/vultr-node/compare/v2.0.7..v2.0.8) (2020-05-07)
+### Bug Fixes
+* Fix formatting of block storage endpoint parameters [#477](https://github.com/vultr/vultr-node/477)
+
+## [v2.0.7](https://github.com/vultr/vultr-node/compare/v2.0.6..v2.0.7) (2020-05-01)
+### Dependencies
+* To see all deps that were updated please check [milestone v2.0.7](https://github.com/vultr/vultr-node/milestone/39)
+
 ## [v2.0.6](https://github.com/vultr/vultr-node/compare/v2.0.5..v2.0.6) (2020-03-25)
 ### Bug Fixes
 * Add OS parameter to listPlans() and fix typos in startup scripts URLs [#460](https://github.com/vultr/vultr-node/pull/460)
